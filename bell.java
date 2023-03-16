@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 import java.util.Arrays;
 public class BellmanFord {
     static final int INF = Integer.MAX_VALUE;
